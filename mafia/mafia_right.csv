@@ -1,0 +1,157 @@
+n. unitÃ ,tipologia,consistenza,ubicazione,concessionari ,durata anni,progetto
+1,abitazione,"2,5 vani",Via ArquÃ ,Fondazione Casa della CaritÃ  Angelo Abriani OnlusVia Brambilla 8/1020128 Milano,10,Progetto Sociale
+2,abitazione,3 vani,Via Arzaga,Fondazione Somaschi Onlus P.zza XXV Aprile 220121 Milano,6,Progetto Sociale
+3,abitazione,3 vani,Via Arzaga,Fondazione Somaschi Onlus P.zza XXV Aprile 220121 Milano,6,Progetto Sociale
+4,box,15 mq,Via Arzaga,Fondazione Somaschi Onlus P.zza XXV Aprile 220121 Milano,6,Progetto Sociale
+5,box ,15 mq,Via Asiago,Fondazione Somaschi Onlus P.zza XXV Aprile 220121 Milano,6,Progetto Sociale
+6,abitazione,"2,5 vani",Via Baldinucci,"Pio Istituto di MaternitÃ  PIM Via delle Camelie, 12 20147 Milano",5,Progetto Sociale
+7,abitazione,"5,5 vani",Via Baldo degli Ubaldi,Fondazione Casa della CaritÃ  Angelo Abriani OnlusVia Brambilla 8/1020128 Milano,in corso proroga,Progetto Sociale
+8,abitazione,"1,5 vani",Via Bassano del Grappa,Fondazione Progetto Arca OnlusVia S. Giovanni alla Paglia 720124 Milano,10,Progetto Sociale
+9,abitazione,8 vani,Via Bembo,Fondazione Somaschi Onlus P.zza XXV Aprile 220121 Milano,6,Progetto Sociale
+10,box,23 mq.,Via Bembo,"Cooperativa Sociale Aromi a Tutto CampoVia Ippocrate,4520161 Milano",3,Progetto Sociale
+11,abitazione,"1,5 vani",Via Bessarione,Gestione direttaComune di MilanoSettore ResidenzialitÃ ,,Progetto Sociale
+12,abitazione,8 vani,Via Bianchi MosÃ¨,Gestione direttaComune di MilanoSettore ResidenzialitÃ ,,Progetto Sociale
+13,abitazione,3 vani,Via Bianchi MosÃ¨,"Associazione SocietÃ  di San Vincenzo dÃ¨ Paoli Consiglio Centrale di Milano OnlusVia Pisacane, 3220129 Milano",5,Progetto Sociale
+14,abitazione,"9,5 vani",Via Bianco Mario,ComunitÃ  Santâ€™Egidio ACAP Onlus Via Lanzone 1320123 Milano,15,Progetto Sociale
+15,abitazione,6 vani,Viale Brianza,Associazione Progetto Itaca OnlusVia Alessandro Volta 7/a20121 Milano,6,Progetto Sociale
+16,box ,14 mq,Via Brusuglio,Fondazione Somaschi Onlus P.zza XXV Aprile 220121 Milano,6,Progetto Sociale
+17,abitazione,5 vani,Via Burlamacchi,"Soc. Coop. Sociale Spazio Aperto Servizi OnlusVia Gorki, 520146 Milano",3,Progetto Sociale
+18,abitazione,4 vani,Via Cambiasi,Fondazione Somaschi Onlus P.zza XXV Aprile 220121 Milano,6,Progetto Sociale
+19,abitazione,8 vani,Via Canonica,Fondazione Don Carlo Gnocchi Onlus Piazzale R. Morandi 620121 Milano,10,Progetto Sociale
+20,Locale commerciale,36 mq,via Cenisio,Associazione di Volontariato Aldo Perini Onlus P.zza Pompeo Castelli 1020156 Milano,5,Progetto Sociale
+21,abitazione,4 vani,Via Ceriani,"Consorzio Farsi Prossimo OnlusVia San Bernadino, 42011 Milano",in corso proroga,Progetto Sociale
+22,"Negozio, magazzino e cantina di pertinenza del negozio",63 mq,Via Ceriani,Associazione Il BalzoVle Etiopia 620146 Milano ,5,Progetto Sociale
+23,"Negozio, magazzino e cantina di pertinenza del negozio",18 mq,Via Ceriani,Associazione Il BalzoVle Etiopia 620146 Milano ,5,Progetto Sociale
+24,"Negozio, magazzino e cantina di pertinenza del negozio",19 mq,Via Ceriani,Associazione Il BalzoVle Etiopia 620146 Milano ,5,Progetto Sociale
+25,abitazione,"1,5 vani",Via Clusone,Associazione di Promozione Sociale JointVia Giovanola 25/c20142 Milano,10,Progetto Sociale
+26,Abitazioni di tipo economico,"5,5 vani",Via Concilio Vaticano II,Fondazione Don Carlo Gnocchi OnlusPiazzale R. Morandi 620121 Milano,10,Progetto Sociale
+27,Villetta a schiera e box di pertinenza,11 vani,Via Del Mare,SocietÃ  Cooperativa Sociale La StradaVia Giovanni Battista Piazzetta 220139 Milano,10,Progetto Sociale
+28,Villetta a schiera e box di pertinenza,22 mq,Via Del Mare,SocietÃ  Cooperativa Sociale La StradaVia Giovanni Battista Piazzetta 220139 Milano,10,Progetto Sociale
+29,Villetta a schiera doppia e box di pertinenza,"15,5 vani",Via Del Mare,Associazione ComunitÃ  S. Patrignano Libera Associazione OnlusVia San Patrignano 5347853 Coriano (RN),10,Progetto Sociale
+30,Villetta a schiera doppia e box di pertinenza,16 mq,Via Del Mare,Associazione ComunitÃ  S. Patrignano Libera Associazione OnlusVia San Patrignano 5347853 Coriano (RN),10,Progetto Sociale
+31,Villetta a schiera e box di pertinenza,8 vani,Via Del Mare,Associazione ComunitÃ Papa Giovanni XXIIIVia Mameli 147900 Rimini,10,Progetto Sociale
+32,Villetta a schiera e box di pertinenza,18 mq,Via Del Mare,Associazione ComunitÃ Papa Giovanni XXIIIVia Mameli 147900 Rimini,10,Progetto Sociale
+33,abitazione,"3,5 vani",Via Della Francesca Pier,Gestione direttaComune di MilanoSettore ResidenzialitÃ ,,Progetto Sociale
+34,abitazione,"3,5 vani",Via Della Pila Lanfranco,Erika Associazione per la Lotta ai Disturbi del ComportamentoP.zza Ospedale Maggiore 320162 Milanoc/o Centro per la cura dei Disturbi Alimentari dellâ€™Azienda Ospedaliera Niguarda CÃ  Granda,5,Progetto Sociale
+35,magazzino,45 mq,Via Dolomiti,Fondazione Casa della CaritÃ  Angelo Abriani OnlusVia Brambilla 8/1020128 Milano,10,Progetto Sociale
+36,abitazione,"2,5 vani",Via Farini,Associazione Gruppo di Betania OnlusVia Ettore Ciccotti 920161 Milano,5,Progetto Sociale
+37,abitazione,"2,5 vani",Via Farini,Fondazione Somaschi Onlus P.zza XXV Aprile 220121 Milano,6,Progetto Sociale
+38,abitazione,3 vani,Via Farini,Associazione Saman OnlusVia Bolzano 2620127 Milano,10,Progetto Sociale
+39,abitazione,"1,5 vani",Via Folli,Fondazione Progetto Arca OnlusVia S. Giovanni alla Paglia 720124 Milano,10,Progetto Sociale
+40,localecommerciale,46 mq,Via F.lli Cervi,Associazione Centro di Aiuto alla Vita Mangiagalli OnlusVia della Commenda 1220122 Milano,10,Progetto Sociale
+41,abitazione,"1,5 vani",Via Imbriani,SocietÃ  Cooperativa Sociale Arca di NoÃ¨Via Tertuliano 7020137 Milano,4,Progetto Sociale
+42,locale commerciale,3 vani,Via Jean Jaures,Associazione ArchÃ¨ OnlusVia Cagliero 2620125 Milano,4,Progetto Sociale
+43,abitazione e box di pertinenza,"8,5 vani",Viale Jenner,Gestione direttaComune di MilanoSettore ResidenzialitÃ ,,Progetto Sociale
+44,abitazione e box di pertinenza,14 mq,Viale Jenner,Gestione direttaComune di MilanoSettore ResidenzialitÃ ,,Progetto Sociale
+45,abitazione,5 vani,Via Lambro,"Soc. Coop. Sociale Spazio Aperto Servizi OnlusVia Gorki, 520146 MilanoC.F / P.IVA 10860990158",3,Progetto Sociale
+46,abitazione,5 vani,Via Leoncavallo,Fondazione Somaschi Onlus P.zza XXV Aprile 220121 Milano,6,Progetto Sociale
+47,negozio,26 mq,Via Leoncavallo,Gestione direttaComune di Milano,,Progetto Sociale
+48,abitazione,"2,5 vani",Via Leoncavallo,Associazione di Promozione Sociale JointVia Giovanola 25/c20142 Milano,10,Progetto Sociale
+49,abitazione,"2,5 vani",Corso Lodi,Coop. Soc. Anteo OnlusVia F. Piacenza n. 1113900 Biella (BI),3,Progetto Sociale
+50,box,13 mq,Corso Lodi,Coop. Soc. Anteo OnlusVia F. Piacenza n. 1113900 Biella (BI),3,Progetto Sociale
+51,abitazione,"2,5 vani",Corso Lodi,Coop. Soc. Anteo OnlusVia F. Piacenza n. 1113900 Biella (BI),3,Progetto Sociale
+52,box,20 mq,Corso Lodi,Coop. Soc. Anteo OnlusVia F. Piacenza n. 1113900 Biella (BI),3,Progetto Sociale
+53,abitazione,"5, 5 vani",Via Lombardia,Gestione direttaComune di MilanoSettore ResidenzialitÃ ,,Progetto Sociale
+54,negozio,37 mq,Via Maderna,Gestione direttaComune di Milano,,Progetto Sociale
+55,magazzino seminterrato,79 mq,Via Madre Picco A.,Associazione Centro Ambrosiano di SolidarietÃ  OnlusVia Marotta n. 820134 Milano,6,Progetto Sociale
+56,abitazione,3 vani,Viale Majno,Associazione Saman OnlusVia Bolzano 2620127 Milano,3,Progetto Sociale
+57,terreno agricolo,1.793 mq,Via Martirano/Via Guascona,Cooperativa SocialeOpera in FioreVia Camporgnago 4020141 Milano,7,Progetto Sociale
+58,abitazione,"3,5 vani",Via Meda G.,Ass. Telefono DonnaP.zza Ospedale Maggiore n. 320162 Milano,3,Progetto Sociale
+59,uso ufficio,4 vani,Via Melzi D'Eril,Ass. S.O.S. BAMBINOInternational - Adoption OnlusVia Monteverdi 2/A36100 Vicenza,3,Progetto Sociale
+60,localecommerciale,106 mq,Via Momigliano,Cooperativa Zero5 Laboratorio di Utopie Metropolitane via Sant'Abbondio 26/C20142 Milano,5,Progetto Sociale
+61,abitazione,9 vani,Via Monte Ceneri,SocietÃ  Cooperativa Sociale La StradaVia Giovanni Battista Piazzetta 220139 Milano,6,Progetto Sociale
+62,abitazione,3 vani,Via Monte Santo,Consorzio Sociale Goel SocietÃ  Cooperativa Sociale e Impresa Sociale Contrada Limina 389042 Gioiosa Jonica (RC),10,Progetto Sociale
+63,abitazione,1 vani,Viale Monza,"SocietÃ  Cooperativa a r.l. A.C.C.E.S.S.O. Agenziastampa di Comunicazione per i Consumi Etici, Sociali e SolidaliVia Belgirate 1520125 Milano",6,Progetto Sociale
+64,abitazione,5 vani,Viale Monza,Fondazione Somaschi Onlus P.zza XXV Aprile 220121 Milano,6,Progetto Sociale
+65,abitazione,1 vani,Via Mosca,Fondazione Somaschi Onlus P.zza XXV Aprile 220121 Milano,6,Progetto Sociale
+66,abitazione,"2,5 vani",Via Oristano,Fondazione Casa della CaritÃ  Angelo Abriani OnlusVia Brambilla 8/1020128 Milano,3,Progetto Sociale
+67,abitazione,"3,5 vani",Via Oxilia,Associazione Opera San Francescoper i PoveriCorso Concordia 320129 Milano,10,Progetto Sociale
+68,abitazione,"2,5 vani",Via Padova,Associazione Centro Ambrosiano di SolidarietÃ  OnlusVia Marotta n. 820134 Milano,3,Progetto Sociale
+69,Abitazione e cantine di pertinenza,"3,5 vani",Via Padova,Fondazione Progetto Arca OnlusVia S. Giovanni alla Paglia 720124 Milano,10,Progetto Sociale
+70,Abitazione e cantine di pertinenza,10 mq,Via Padova,Fondazione Progetto Arca OnlusVia S. Giovanni alla Paglia 720124 Milano,10,Progetto Sociale
+71,Abitazione e cantine di pertinenza,11 mq,Via Padova,Fondazione Progetto Arca OnlusVia S. Giovanni alla Paglia 720124 Milano,10,Progetto Sociale
+72,Abitazione e cantine di pertinenza,12 mq,Via Padova,Fondazione Progetto Arca OnlusVia S. Giovanni alla Paglia 720124 Milano,10,Progetto Sociale
+73,abitazione,1 vano,Via Padova,Fondazione Progetto Arca OnlusVia S. Giovanni alla Paglia 720124 Milano,10,Progetto Sociale
+74,"Abitazione, cantina e sottotetto di pertinenza",10 mq,Via Padova,Fondazione Progetto Arca OnlusVia S. Giovanni alla Paglia 720124 Milano,10,Progetto Sociale
+75,"Abitazione, cantina e sottotetto di pertinenza",7 mq,Via Padova,Fondazione Progetto Arca OnlusVia S. Giovanni alla Paglia 720124 Milano,10,Progetto Sociale
+76,"Abitazione, cantina e sottotetto di pertinenza",116 mq,Via Padova,Fondazione Progetto Arca OnlusVia S. Giovanni alla Paglia 720124 Milano,10,Progetto Sociale
+77,abitazione,"1,5 vani",Via Parenzo,Gestione direttaComune di MilanoSettore ResidenzialitÃ ,,Progetto Sociale
+78,negozio,21 mq,Via Paisiello,Ass. Gruppo Volontari OnlusVia G. Lulli n. 3220131 Milano,10,Progetto Sociale
+79,negozio,22 mq,Via Paisiello,Ass. Gruppo Volontari OnlusVia G. Lulli n. 3220131 Milano,10,Progetto Sociale
+80,cantina,57 mq,Via Paisiello,Ass. Gruppo Volontari OnlusVia G. Lulli n. 3220131 Milano,10,Progetto Sociale
+81,abitazione,4 vani,Via Pianell ,SocietÃ  Cooperativa Sociale Farsi Prossimo OnlusVia San Bernardino 420122 Milano,10,Progetto Sociale
+82,abitazione,4 vani,Via Pianell ,Associazione Centro di Aiuto alla Vita Mangiagalli OnlusVia della Commenda 1220122 Milano,10,Progetto Sociale
+83,abitazione,"1,5 vani",Via Rinuccini,Gestione direttaComune di MilanoSettore ResidenzialitÃ ,,Progetto Sociale
+84,negozio,60 mq,Via Riva di Trento,Associazione di Promozione Sociale JointVia Giovanola 25/c20142 Milano,3,Progetto Sociale
+85,Complesso Immobiliare,3 vani,Via Sant'Arialdo,Consorzio Cooperative Socialidi SolidarietÃ  s.c.s. a r.l. Sistema Imprese Sociali Via Marco Aurelio 820127 Milano,In fase di stipula contratto,Progetto Sociale
+86,Complesso Immobiliare,3 vani,Via Sant'Arialdo,Consorzio Cooperative Socialidi SolidarietÃ  s.c.s. a r.l. Sistema Imprese Sociali Via Marco Aurelio 820127 Milano,In fase di stipula contratto,Progetto Sociale
+87,Complesso Immobiliare,"5,5 vani",Via Sant'Arialdo,Consorzio Cooperative Socialidi SolidarietÃ  s.c.s. a r.l. Sistema Imprese Sociali Via Marco Aurelio 820127 Milano,In fase di stipula contratto,Progetto Sociale
+88,Complesso Immobiliare,"5,5 vani",Via Sant'Arialdo,Consorzio Cooperative Socialidi SolidarietÃ  s.c.s. a r.l. Sistema Imprese Sociali Via Marco Aurelio 820127 Milano,In fase di stipula contratto,Progetto Sociale
+89,Complesso Immobiliare,"3,5 vani",Via Sant'Arialdo,Consorzio Cooperative Socialidi SolidarietÃ  s.c.s. a r.l. Sistema Imprese Sociali Via Marco Aurelio 820127 Milano,In fase di stipula contratto,Progetto Sociale
+90,Complesso Immobiliare,"3,5 vani",Via Sant'Arialdo,Consorzio Cooperative Socialidi SolidarietÃ  s.c.s. a r.l. Sistema Imprese Sociali Via Marco Aurelio 820127 Milano,In fase di stipula contratto,Progetto Sociale
+91,Complesso Immobiliare,"3,5 vani",Via Sant'Arialdo,Consorzio Cooperative Socialidi SolidarietÃ  s.c.s. a r.l. Sistema Imprese Sociali Via Marco Aurelio 820127 Milano,In fase di stipula contratto,Progetto Sociale
+92,Complesso Immobiliare,"3,5 vani",Via Sant'Arialdo,Consorzio Cooperative Socialidi SolidarietÃ  s.c.s. a r.l. Sistema Imprese Sociali Via Marco Aurelio 820127 Milano,in fase di stipula contratto,Progetto Sociale
+93,Complesso Immobiliare,"11,5 vani",Via Sant'Arialdo,Consorzio Cooperative Socialidi SolidarietÃ  s.c.s. a r.l. Sistema Imprese Sociali Via Marco Aurelio 820127 Milano,in fase di stipula contratto ,Progetto Sociale
+94,Complesso Immobiliare,"6,5 vani",Via Sant'Arialdo,Consorzio Cooperative Socialidi SolidarietÃ  s.c.s. a r.l. Sistema Imprese Sociali Via Marco Aurelio 820127 Milano,in fase di stipula contratto,Progetto Sociale
+95,Complesso Immobiliare,"6,5 vani",Via Sant'Arialdo,Consorzio Cooperative Socialidi SolidarietÃ  s.c.s. a r.l. Sistema Imprese Sociali Via Marco Aurelio 820127 Milano,in fase di stipula contratto,Progetto Sociale
+96,Complesso Immobiliare,24 mq,Via Sant'Arialdo,Consorzio Cooperative Socialidi SolidarietÃ  s.c.s. a r.l. Sistema Imprese Sociali Via Marco Aurelio 820127 Milano,in fase di stipula contratto,Progetto Sociale
+97,Complesso Immobiliare,terreno,Via Sant'Arialdo,Consorzio Cooperative Socialidi SolidarietÃ  s.c.s. a r.l. Sistema Imprese Sociali Via Marco Aurelio 820127 Milano,in fase di stipula contratto,Progetto Sociale
+98,Complesso Immobiliare,terreno,Via Sant'Arialdo,Consorzio Cooperative Socialidi SolidarietÃ  s.c.s. a r.l. Sistema Imprese Sociali Via Marco Aurelio 820127 Milano,in fase di stipula contratto,Progetto Sociale
+99,Complesso Immobiliare,terreno,Via Sant'Arialdo,Consorzio Cooperative Socialidi SolidarietÃ  s.c.s. a r.l. Sistema Imprese Sociali Via Marco Aurelio 820127 Milano,in fase di stipula contratto,Progetto Sociale
+100,Complesso Immobiliare,terreno,Via Sant'Arialdo,Consorzio Cooperative Socialidi SolidarietÃ  s.c.s. a r.l. Sistema Imprese Sociali Via Marco Aurelio 820127 Milano,in fase di stipula contratto,Progetto Sociale
+101,Complesso Immobiliare,terreno,Via Sant'Arialdo,Consorzio Cooperative Socialidi SolidarietÃ  s.c.s. a r.l. Sistema Imprese Sociali Via Marco Aurelio 820127 Milano,in fase di stipula contratto,Progetto Sociale
+102,Complesso Immobiliare,terreno,Via Sant'Arialdo,Consorzio Cooperative Socialidi SolidarietÃ  s.c.s. a r.l. Sistema Imprese Sociali Via Marco Aurelio 820127 Milano,,Progetto Sociale
+103,abitazione,6 vani,Via Santa Marcellina,"Associazione di Volontariato Vittime del DovereVia Correggio, 5920900 Monza (MB)C.F. 94605940157",3,Progetto Sociale
+104,box,17 mq.,Via Santa Marcellina,"Associazione di Volontariato Vittime del DovereVia Correggio, 5920900 Monza (MB)C.F. 94605940157",3,Progetto Sociale
+105,box,17 mq,Via Santa Marcellina,Fondazione Somaschi Onlus P.zza XXV Aprile 220121 Milano,6,Progetto Sociale
+106,abitazione,6 vani,Viale Sarca,Fondazione Somaschi Onlus P.zza XXV Aprile 220121 Milano,6,Progetto Sociale
+107,abitazione,2 vani,Via Serio,Associazione di Volontariato CAM Centro Ausiliario per i Problemi MinoriliVia Leopardi 2120123 Milano,5,Progetto Sociale
+108,abitazione,3 vani,Via Serra Renato,SocietÃ  Cooperativa Sociale ComunitÃ  Progetto a r.l.Via Soperga 1320127 Milano,10,Progetto Sociale
+109,abitazione,"2,5 vani",Via Sommacampagna,Associazione ComunitÃ  Nuova Onlus Via F. Gonin 820147 Milano,10,Progetto Sociale
+110,box,22 mq,Via Torre C.,Cooperativa Sociale Saman LavoroVia Bolzano 2620127 Milano,10,Progetto Sociale
+111,box,13 mq,Via Torre C.,SocietÃ  Cooperativa Sociale di SolidarietÃ  OmnicoopVia Basilea 420152 Milano,10,Progetto Sociale
+112,box,13 mq,Via Torre C.,SocietÃ  Cooperativa Sociale di SolidarietÃ  OmnicoopVia Basilea 420152 Milano,10,Progetto Sociale
+113,box,13 mq,Via Torre C.,SocietÃ  Cooperativa Sociale di SolidarietÃ  OmnicoopVia Basilea 420152 Milano,10,Progetto Sociale
+114,box,13 mq,Via Torre C.,SocietÃ  Cooperativa Sociale di SolidarietÃ  OmnicoopVia Basilea 420152 Milano,10,Progetto Sociale
+115,box,13 mq,Via Torre C.,SocietÃ  Cooperativa Sociale di SolidarietÃ  OmnicoopVia Basilea 420152 Milano,10,Progetto Sociale
+116,box,13 mq,Via Torre C.,SocietÃ  Cooperativa Sociale di SolidarietÃ  OmnicoopVia Basilea 420152 Milano,10,Progetto Sociale
+117,box,13 mq,Via Torre C.,SocietÃ  Cooperativa Sociale di SolidarietÃ  OmnicoopVia Basilea 420152 Milano,10,Progetto Sociale
+118,box,13 mq,Via Torre C.,SocietÃ  Cooperativa Sociale di SolidarietÃ  OmnicoopVia Basilea 420152 Milano,10,Progetto Sociale
+119,box,13 mq,Via Torre C.,SocietÃ  Cooperativa Sociale di SolidarietÃ  OmnicoopVia Basilea 420152 Milano,10,Progetto Sociale
+120,box,23 mq,Via Torre C.,SocietÃ  Cooperativa Sociale di SolidarietÃ  OmnicoopVia Basilea 420152 Milano,10,Progetto Sociale
+121,box,23 mq,Via Torre C.,SocietÃ  Cooperativa Sociale di SolidarietÃ  OmnicoopVia Basilea 420152 Milano,10,Progetto Sociale
+122,box,23 mq,Via Torre C.,SocietÃ  Cooperativa Sociale di SolidarietÃ  OmnicoopVia Basilea 420152 Milano,10,Progetto Sociale
+123,box,19 mq,Via Torre C.,SocietÃ  Cooperativa Sociale di SolidarietÃ  OmnicoopVia Basilea 420152 Milano,10,Progetto Sociale
+124,box,13 mq,Via Torre C.,SocietÃ  Cooperativa Sociale di SolidarietÃ  OmnicoopVia Basilea 420152 Milano,10,Progetto Sociale
+125,box,20 mq,Via Torre C.,SocietÃ  Cooperativa Sociale di SolidarietÃ  OmnicoopVia Basilea 420152 Milano,10,Progetto Sociale
+126,box,13 mq,Via Torre C.,SocietÃ  Cooperativa Sociale di SolidarietÃ  OmnicoopVia Basilea 420152 Milano,10,Progetto Sociale
+127,box,29 mq,Via Torre C.,SocietÃ  Cooperativa Sociale di SolidarietÃ  OmnicoopVia Basilea 420152 Milano,10,Progetto Sociale
+128,abitazione,1 vani,Via Torriani Napo,Fondazione Progetto Arca OnlusVia S. Giovanni alla Paglia 720124 Milano,10,Progetto Sociale 
+129,abitazione,"1,5 vani",Via Torriani Napo,Fondazione Progetto Arca OnlusVia S. Giovanni alla Paglia 720124 Milano,10,Progetto Sociale
+130,abitazione e solaio di pertinenza,1 vani,Via Vallazze,Associazione PapaSeparatiLombardia OnlusVia Salvo dâ€™Acquisto 1220037 Paderno Dugnano (MI),10,Progetto Sociale
+131,abitazione e solaio di pertinenza,14 mq,Via Vallazze,Associazione PapaSeparatiLombardia OnlusVia Salvo dâ€™Acquisto 1220037 Paderno Dugnano (MI),10,Progetto Sociale
+132,abitazione e solai di pertinenza,1 vani,Via Vallazze,Associazione PapaSeparatiLombardia OnlusVia Salvo dâ€™Acquisto 1220037 Paderno Dugnano (MI),10,Progetto Sociale
+133,abitazione e solai di pertinenza,25 mq,Via Vallazze,Associazione PapaSeparatiLombardia OnlusVia Salvo dâ€™Acquisto 1220037 Paderno Dugnano (MI),10,Progetto Sociale
+134,abitazione e solai di pertinenza,24 mq,Via Vallazze,Associazione PapaSeparatiLombardia OnlusVia Salvo dâ€™Acquisto 1220037 Paderno Dugnano (MI),10,Progetto Sociale
+135,abitazione e solaio di pertinenza,1 vani,Via Vallazze,Associazione Opera San Francescoper i PoveriCorso Concordia 320129 Milano,10,Progetto Sociale
+136,abitazione e solaio di pertinenza,24 mq,Via Vallazze,Associazione Opera San Francescoper i PoveriCorso Concordia 320129 Milano,10,Progetto Sociale
+137,"abitazione, cantina e solaio di pertinenza ",1 vani,Via Vallazze,Associazione Opera San Francescoper i PoveriCorso Concordia 320129 Milano,10,Progetto Sociale
+138,"abitazione, cantina e solaio di pertinenza ",10 mq,Via Vallazze,Associazione Opera San Francescoper i PoveriCorso Concordia 320129 Milano,10,Progetto Sociale
+139,"abitazione, cantina e solaio di pertinenza ",17 mq,Via Vallazze,Associazione Opera San Francescoper i PoveriCorso Concordia 320129 Milano,10,Progetto Sociale
+140,abitazione,1 vani,Via Vallazze,Fondazione Casa della CaritÃ  Angelo Abriani OnlusVia Brambilla 8/1020128 Milano,10,Progetto Sociale
+141,abitazione e solaio di pertinenza,"2,5 vani",Via Vallazze,Fondazione Casa della CaritÃ  Angelo Abriani OnlusVia Brambilla 8/1020128 Milano,10,Progetto Sociale
+142,abitazione e solaio di pertinenza,15 mq,Via Vallazze,Fondazione Casa della CaritÃ  Angelo Abriani OnlusVia Brambilla 8/1020128 Milano,10,Progetto Sociale
+143,abitazione e solaio di pertinenza,2 vani,Via Vallazze,Fondazione Casa della CaritÃ  Angelo Abriani OnlusVia Brambilla 8/1020128 Milano,10,Progetto Sociale
+144,abitazione e solaio di pertinenza,13 mq,Via Vallazze,Fondazione Casa della CaritÃ  Angelo Abriani OnlusVia Brambilla 8/1020128 Milano,10,Progetto Sociale
+145,abitazione e solai di pertinenza ,"2,5 vani",Via Vallazze,Consorzio Cooperative Socialidi SolidarietÃ  s.c.s. a r.l. Sistema Imprese Sociali Via Marco Aurelio 820127 Milano,6,Progetto Sociale
+146,abitazione e solai di pertinenza ,10 mq,Via Vallazze,Consorzio Cooperative Socialidi SolidarietÃ  s.c.s. a r.l. Sistema Imprese Sociali Via Marco Aurelio 820127 Milano,6,Progetto Sociale
+147,abitazione e solai di pertinenza ,11 mq,Via Vallazze,Consorzio Cooperative Socialidi SolidarietÃ  s.c.s. a r.l. Sistema Imprese Sociali Via Marco Aurelio 820127 Milano,6,Progetto Sociale
+148,abitazione e solai di pertinenza ,2 vani,Via Vallazze,Consorzio Cooperative Socialidi SolidarietÃ  s.c.s. a r.l. Sistema Imprese Sociali Via Marco Aurelio 820127 Milano,6,Progetto Sociale
+149,abitazione e solai di pertinenza ,6 mq,Via Vallazze,Consorzio Cooperative Socialidi SolidarietÃ  s.c.s. a r.l. Sistema Imprese Sociali Via Marco Aurelio 820127 Milano,6,Progetto Sociale
+150,abitazione e solai di pertinenza ,12 mq,Via Vallazze,Consorzio Cooperative Socialidi SolidarietÃ  s.c.s. a r.l. Sistema Imprese Sociali Via Marco Aurelio 820127 Milano,6,Progetto Sociale
+151,negozio,22 mq,Via Vallazze,Angel Service Soc. Coop. Soc. arl OnlusVia Vallazze n. 10420131 Milano,3,Progetto Sociale
+152,cantina,12 mq,Via Vallazze,Angel Service Soc. Coop. Soc. arl OnlusVia Vallazze n. 10420131 Milano,3,Progetto Sociale
+153,appart.,"4,5 vani",Via Val Isorno,Cooperativa Sociale ComunitÃ  del GiambellinoVia Bellini Gentile 620146 Milano,5,Progetto Sociale
+154,Autosalone e box di pertinenza,105 mq,Via Varesina,Fondazione Exodus OnlusVle Marotta 18/2020134 Milano,5,Progetto Sociale
+155,box,11 mq,Via Varesina,Fondazione Exodus OnlusVle Marotta 18/2020134 Milano,5,Progetto Sociale
+156,localecommerciale,21 mq,Via Venini,Associazione L'Altropallone ADS OnlusVia Angera 320125 Milano,4,Progetto Sociale
